@@ -1,0 +1,3 @@
+Projeyi kendi bilgisayarinizda calistirmak icin
+VS da Proje-Basvuru Ekle/Refenences menüsünden zip dosyasi icindeki
+SQLite dll bir dizine cikaritlarak referans olarak eklenir.
